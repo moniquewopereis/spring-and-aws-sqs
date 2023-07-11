@@ -63,6 +63,13 @@
 			<groupId>io.awspring.cloud</groupId>
 			<artifactId>spring-cloud-aws-starter-sqs</artifactId>
 		</dependency>
+		
+		<dependency>
+  			<groupId>com.twilio.sdk</groupId>
+  			<artifactId>twilio</artifactId>
+  			<version>9.8.0</version>
+  			<scope>compile</scope>
+		</dependency>
 	</dependencies>
 
 	<build>

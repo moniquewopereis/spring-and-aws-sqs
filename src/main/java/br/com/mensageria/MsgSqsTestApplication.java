@@ -16,5 +16,5 @@ public class MsgSqsTestApplication {
 	public void listen(String message) {
 		System.out.println(message);
 	}
-
+	
 }
